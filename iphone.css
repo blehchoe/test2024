@@ -1,0 +1,145 @@
+.iphone-pro-max {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone-pro-max .div {
+    background-color: #ffffff;
+    width: 440px;
+    height: 1549px;
+    position: relative;
+  }
+  
+  .iphone-pro-max .vector {
+    top: 377px;
+    position: absolute;
+    width: 413px;
+    height: 6px;
+    left: 14px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .img {
+    top: 1189px;
+    position: absolute;
+    width: 413px;
+    height: 6px;
+    left: 14px;
+    object-fit: cover;
+  }
+  
+  .iphone-pro-max .overlap-group {
+    position: absolute;
+    width: 440px;
+    height: 75px;
+    top: 1474px;
+    left: 0;
+    background-color: #eff1b6;
+  }
+  
+  .iphone-pro-max .frame {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 14px;
+    left: 202px;
+  }
+  
+  .iphone-pro-max .overlap {
+    position: absolute;
+    width: 418px;
+    height: 200px;
+    top: 1259px;
+    left: 11px;
+  }
+  
+  .iphone-pro-max .element-greenpoint-ave {
+    position: absolute;
+    width: 172px;
+    top: 0;
+    left: 0;
+    font-family: "Major Mono Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .info-theradiostar {
+    position: absolute;
+    width: 327px;
+    top: 178px;
+    left: 91px;
+    font-family: "Major Mono Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 11px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .text-wrapper {
+    text-decoration: underline;
+  }
+  
+  .iphone-pro-max .span {
+    font-family: "Major Mono Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+  }
+  
+  .iphone-pro-max .text-wrapper-2 {
+    position: absolute;
+    width: 219px;
+    top: 184px;
+    left: 21px;
+    font-family: "Major Mono Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .coffee-menu {
+    position: absolute;
+    top: 534px;
+    left: 121px;
+    font-family: "Martian Mono-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro-max .text-wrapper-3 {
+    position: absolute;
+    width: 292px;
+    top: 93px;
+    left: 16px;
+    font-family: "Major Mono Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro-max .status-bar {
+    position: absolute;
+    width: 440px;
+    height: 50px;
+    top: 0;
+    left: 0;
+  }
+  
