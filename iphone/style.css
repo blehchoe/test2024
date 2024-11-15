@@ -1,0 +1,124 @@
+.i-phone-16-pro-max-1,
+.i-phone-16-pro-max-1 * {
+  box-sizing: border-box;
+}
+.i-phone-16-pro-max-1 {
+  background: #ffffff;
+  height: 1549px;
+  position: relative;
+  overflow: hidden;
+}
+.vector-25 {
+  width: 408px;
+  height: 0px;
+  position: absolute;
+  left: 17px;
+  top: 380px;
+  transform: translate(-2.67px, -2.67px);
+  overflow: visible;
+}
+.vector-1585 {
+  width: 408px;
+  height: 0px;
+  position: absolute;
+  left: 17px;
+  top: 1192px;
+  transform: translate(-2.67px, -2.67px);
+  overflow: visible;
+}
+.rectangle-83 {
+  background: #eff1b6;
+  width: 440px;
+  height: 75px;
+  position: absolute;
+  left: 0px;
+  top: 1549px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.address {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 11px;
+  top: 1260px;
+  width: 172px;
+  height: 197px;
+}
+.insta {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 202px;
+  top: 1488px;
+  overflow: visible;
+}
+.info {
+  color: #000000;
+  text-align: right;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  position: absolute;
+  left: 102px;
+  top: 1438px;
+  width: 327px;
+}
+.info-theradiostar-com-347-799-1190-span {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.info-theradiostar-com-347-799-1190-span2 {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+}
+.cafe-pre-order {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 21px;
+  top: 185px;
+  width: 219px;
+  height: 32px;
+}
+.coffee-menu {
+  color: #000000;
+  text-align: center;
+  font-family: "MartianMono-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 121px;
+  top: 535px;
+}
+.radio-star {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 94px;
+  width: 292px;
+  height: 35px;
+}
+.status-bar {
+  width: 440px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}

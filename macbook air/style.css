@@ -1,0 +1,483 @@
+
+
+
+.radio-star {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 2.75rem;
+  font-weight: 400;
+  position: absolute;
+  left: 4.625rem;
+  top: 6.625rem;
+  width: 33.125rem;
+  height: 6.8125rem;
+}
+.reserve-your-seats {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  position: absolute;
+  left: 4.625rem;
+  top: 18.6875rem;
+  width: 42.25rem;
+  height: 16.875rem;
+}
+.tile {
+  width: 109.0625rem;
+  height: 80.5625rem;
+  position: absolute;
+  left: -17.9375rem;
+  top: 69.4375rem;
+  transform-origin: 0 0;
+  object-fit: cover;
+}
+.rectangle {
+  background: #eff1b6;
+  width: 100%;
+  height: 11rem;
+  position: absolute;
+  left: 0rem;
+  top: 277rem;
+}
+.address {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 1.9rem;
+  font-weight: 400;
+  position: absolute;
+  left: 1.0625rem;
+  top: 279.125rem;
+}
+.info {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 1.9rem;
+  font-weight: 400;
+  position: absolute;
+  left: 55.5rem;
+  top: 282.9rem;
+}
+.info-span {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.info-span2 {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+
+.outdoor {
+  color: #000000;
+  text-align: left;
+  font-family: "MartianMono-Regular", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  position: absolute;
+  left: 64.0625rem;
+  top: 148.25rem;
+  width: 10.125rem;
+  height: 2.4375rem;
+}
+.entrance {
+  color: #000000;
+  text-align: left;
+  font-family: "MartianMono-Regular", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  position: absolute;
+  left: 64.0625rem;
+  top: 55.4375rem;
+  width: 10.125rem;
+  height: 2.4375rem;
+}
+.wc {
+  color: #000000;
+  text-align: left;
+  font-family: "MartianMono-Regular", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  position: absolute;
+  left: 11.75rem;
+  top: 55.375rem;
+  width: 3.125rem;
+  height: 2.5rem;
+}
+.sero {
+
+  position: absolute;
+  left: 72.375rem;
+  top: 56.125rem;
+  overflow: visible;
+  object-fit: cover;
+}
+.garo {
+ 
+  position: absolute;
+  left: 14.8125rem;
+  top: 55.625rem;
+  object-fit: cover;
+}
+.indoor {
+  position: absolute;
+  inset: 0;
+}
+.brown-ch1 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 47.498125rem;
+  top: 79.439375rem;
+  object-fit: cover;
+}
+.brown-ch2 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 54.75rem;
+  top: 79.439375rem;
+  object-fit: cover;
+}
+.brown-ch3 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 22.825625rem;
+  top: 140.53625rem;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  object-fit: cover;
+}
+.brown-ch4 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 38.34625rem;
+  top: 134.925625rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  object-fit: cover;
+}
+.brown-ch5 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 47.498125rem;
+  top: 90.16625rem;
+  
+  object-fit: cover;
+}
+.brown-ch6 {
+  width: 5.61125rem;
+  height: 6.669375rem;
+  position: absolute;
+  left: 54.75rem;
+  top: 90.16625rem;
+  object-fit: cover;
+}
+.brown-long-chair1 {
+  width: 8.1875rem;
+  height: 17.758125rem;
+  position: absolute;
+  left: 42.79625rem;
+  top: 124.63625rem;
+  object-fit: cover;
+}
+.rec-tbl1 {
+  width: 14.106875rem;
+  height: 8.63rem;
+  position: absolute;
+  left: 47.50375rem;
+  top: 83.978125rem;
+  object-fit: cover;
+}
+.grn-ch1 {
+  width: 7.413125rem;
+  height: 6.195625rem;
+  position: absolute;
+  left: 17.1275rem;
+  top: 81.09875rem;
+  object-fit: cover;
+}
+.grn-ch2 {
+  width: 7.413125rem;
+  height: 6.195625rem;
+  position: absolute;
+  left: 38.7025rem;
+  top: 96.14625rem;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.circle-tbl1 {
+  width: 8.02125rem;
+  height: 7.745rem;
+  position: absolute;
+  left: 30.9575rem;
+  top: 83.754375rem;
+  object-fit: cover;
+}
+.circle-tbl2 {
+  width: 7.96625rem;
+  height: 7.855625rem;
+  position: absolute;
+  left: 26.144375rem;
+  top: 133.62375rem;
+  object-fit: cover;
+}
+.grn-ch3 {
+  width: 7.413125rem;
+  height: 6.195625rem;
+  position: absolute;
+  left: 60.05625rem;
+  top: 109.755rem;
+  object-fit: cover;
+}
+.circle-tbl3 {
+  width: 7.96625rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 60.166875rem;
+  top: 121.64875rem;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  object-fit: cover;
+}
+.circle-tbl4 {
+  width: 7.96625rem;
+  height: 7.745rem;
+  position: absolute;
+  left: 16.850625rem;
+  top: 83.754375rem;
+  object-fit: cover;
+}
+.circle-tbl5 {
+  width: 8.02125rem;
+  height: 7.855625rem;
+  position: absolute;
+  left: 52.255625rem;
+  top: 133.5425rem;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  object-fit: cover;
+}
+.circle-tbl6 {
+  width: 7.96625rem;
+  height: 7.855625rem;
+  position: absolute;
+  left: 52.255625rem;
+  top: 141.50875rem;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  object-fit: cover;
+}
+.green-chair1 {
+  width: 5.615rem;
+  height: 6.749375rem;
+  position: absolute;
+  left: 67.123125rem;
+  top: 126.475625rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+  object-fit: cover;
+}
+.outdoor-bar {
+  width: 65.83125rem;
+  height: 63.48rem;
+  position: absolute;
+  left: 7.114375rem;
+  top: 156.8325rem;
+  object-fit: cover;
+}
+.outdoor-door {
+  background: #eff1b6;
+  width: 2.046875rem;
+  height: 9.515rem;
+  position: absolute;
+  left: 20.265rem;
+  top: 144rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.entrance-door {
+  background: #eff1b6;
+  width: 2.046875rem;
+  height: 9.515rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 104.5775rem;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.bar {
+  width: 2.9375rem;
+  height: 77.9375rem;
+  position: absolute;
+  left: 0rem;
+  top: 73.875rem;
+  object-fit: cover;
+}
+.patio {
+  position: absolute;
+  inset: 0;
+}
+.patio-ch1 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 54.83375rem;
+  top: 209.015625rem;
+  transform-origin: 0 0;
+  transform: rotate(165deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch2 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 20.225625rem;
+  top: 154.961875rem;
+  transform-origin: 0 0;
+  transform: rotate(-15deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch3 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 28.83375rem;
+  top: 170.235625rem;
+  transform-origin: 0 0;
+  transform: rotate(165deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch4 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 59.1925rem;
+  top: 153.236875rem;
+  transform-origin: 0 0;
+  transform: rotate(60deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch5 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 52.476875rem;
+  top: 173.87125rem;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch6 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 44.798125rem;
+  top: 185.521875rem;
+  transform-origin: 0 0;
+  transform: rotate(-105deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-tbl1 {
+  width: 9.011875rem;
+  height: 9.199375rem;
+  position: absolute;
+  left: 60.94125rem;
+  top: 164.574375rem;
+  transform-origin: 0 0;
+  transform: rotate(161.773deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-tbl2 {
+  width: 9.0175rem;
+  height: 9.183125rem;
+  position: absolute;
+  left: 60.3325rem;
+  top: 187.9225rem;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch7 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 30.088125rem;
+  top: 175.918125rem;
+  transform-origin: 0 0;
+  transform: rotate(75deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-tbl3 {
+  width: 9.011875rem;
+  height: 9.199375rem;
+  position: absolute;
+  left: 29.18875rem;
+  top: 157.486875rem;
+  transform-origin: 0 0;
+  transform: rotate(86.773deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-tbl4 {
+  width: 9.0175rem;
+  height: 9.23875rem;
+  position: absolute;
+  left: 29.40875rem;
+  top: 187.70125rem;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-tbl5 {
+  width: 9.0175rem;
+  height: 9.23875rem;
+  position: absolute;
+  left: 60.221875rem;
+  top: 208.778125rem;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.patio-ch8 {
+  width: 6.66625rem;
+  height: 6.03rem;
+  position: absolute;
+  left: 21.760625rem;
+  top: 190.3325rem;
+  transform-origin: 0 0;
+  transform: rotate(-162.24deg) scale(1, 1);
+  object-fit: cover;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left:0;
+  width: 100%;
+  height: 100%; 
+  background-color: rgba(0,0,0,0.6);
+  display: none;
+}
+.modal-body {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translateX(-50%) translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

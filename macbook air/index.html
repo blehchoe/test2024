@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<head>
+ 
+  <link rel="stylesheet" href="./style.css">
+  
+  
+</head>
+<body>
+  <div class="mac-book-air-1">
+    <img class="tile" src="tile.png" />
+    <div class="rectangle"></div>
+    <div class="address">
+      13 Greenpoint Ave
+      <br />
+      brooklyn, ny 11222
+      <br />
+      sun-thurs: 8am-11pm
+      <br />
+      Fri-sat: 8am-midnight
+    </div>
+    <div class="info">
+      <span>
+        <span class="info-span"><a href="mailto:info@theradiostar.com">info@theradiostar.com</a>
+          
+          <br />
+        </span>
+        <span class="info-span2">(347) 799-1190</span>
+      </span>
+    </div>
+
+    <div class="reserve-your-seats">Reserve Your Seats</div>
+    <div class="radio-star">RADIO STAR</div>
+ 
+    <div class="outdoor">OUTDOOR</div>
+    <div class="entrance">ENTRANCE</div>
+    <div class="wc">WC</div>
+    <img class="sero" src="newsero.png" /></div>
+    <img class="garo" src="newgaro.png" /></div>
+
+<div class="indoorfurniture">
+    <img class="brown-ch1" src="brown-ch1.png" />
+    <img class="brown-ch2" src="brown-ch2.png" />
+    <img class="brown-ch3" src="brown-ch3.png" />
+    <img class="brown-ch4" src="brown-ch4.png" />
+    <img class="brown-ch5" src="brown-ch5.png" />
+    <img class="brown-ch6" src="brown-ch6.png" />
+    <img class="brown-long-chair1" src="brown-long-chair1.png" />
+    <img class="rec-tbl1" src="rec-tbl1.png" />
+    <img class="grn-ch1" src="grn-ch1.png" />
+    <img class="grn-ch2" src="grn-ch2.png" />
+    <img class="circle-tbl1" src="circle-tbl1.png" />
+    <img class="circle-tbl2" src="circle-tbl2.png" />
+    <img class="grn-ch3" src="grn-ch3.png" />
+    <img class="circle-tbl3" src="circle-tbl3.png" />
+    <img class="circle-tbl4" src="circle-tbl4.png" />
+    <img class="circle-tbl5" src="circle-tbl5.png" />
+    <img class="circle-tbl6" src="circle-tbl6.png" />
+    <img class="green-chair1" src="green-chair1.png" />
+</div>
+
+    <div class="outdoor-door"></div>
+    <div class="entrance-door"></div>
+    <img class="bar" src="bar.png" /></div>
+    <img class="outdoor-bar" src="outdoor-bar.png" /></div>
+
+ <div class="outdoorfurniture">
+    <img class="patio-ch1" src="patio-ch1.png" />
+    <img class="patio-ch2" src="patio-ch2.png" />
+    <img class="patio-ch3" src="patio-ch3.png" />
+    <img class="patio-ch4" src="patio-ch4.png" />
+    <img class="patio-ch5" src="patio-ch5.png" />
+    <img class="patio-ch6" src="patio-ch6.png" />
+    <img class="patio-tbl1" src="patio-tbl1.png" />
+    <img class="patio-tbl2" src="patio-tbl2.png" />
+    <img class="patio-ch7" src="patio-ch7.png" />
+    <img class="patio-tbl3" src="patio-tbl3.png" />
+    <img class="patio-tbl4" src="patio-tbl4.png" />
+    <img class="patio-tbl5" src="patio-tbl5.png" />
+    <img class="patio-ch8" src="patio-ch8.png" />
+  </div>
+  </div>
+
+  <div class="modal"> 
+    <img class="modal-body" src="modalbody.png" />
+  </div>
+
+  <script>
+    let indoorfurnitureEls = document.getElementsByClassName('indoorfurniture');
+    console.dir(indoorfurnitureEls);
+    for (let i = 0; i < indoorfurnitureEls.length; i++) {
+      indoorfurnitureEls[i].addEventListener('click',()=> {
+        showModal(indoorfurnitureEls[i]);
+      });
+
+    }
+
+    let body = document.querySelector('body');
+    let modalEl = document.querySelector('.modal');
+    let modalBodyEl = document.querySelector('.modal-body');
+
+
+    function showModal(target) {
+      modalEl.style.display ='block';
+      body.style.overflow = 'hidden';
+      console.dir(target);
+
+      
+     
+    
+
+      document.addEventListener('mouseup',(e)=> {
+        if (!modalBodyEl.contains(e.target)) {
+          modalEl.style.display ='none';
+          body.style.overflow = 'auto';
+        }
+      });
+
+    }
+
+    function removeModal() {
+      modalEl.style.display = 'none';
+      body.style.overflow = 'auto';
+    }
+    
+  </script>
+   
+</body>
+</html>
+
