@@ -1,0 +1,87 @@
+.i-pad-pro-12-9-4,
+.i-pad-pro-12-9-4 * {
+  box-sizing: border-box;
+}
+.i-pad-pro-12-9-4 {
+  background: #ffffff;
+  height: 85.375rem;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  overflow: hidden;
+}
+.radio-star {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 4rem;
+  font-weight: 400;
+  position: absolute;
+  left: 91.9375rem;
+  top: 2.9375rem;
+  width: 61rem;
+  height: 6.875rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.menu {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  position: absolute;
+  left: 83.1875rem;
+  top: 2.9375rem;
+  width: 61rem;
+  height: 4.1875rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-83 {
+  background: #eff1b6;
+  width: 108.8125rem;
+  height: 11rem;
+  position: absolute;
+  left: 11rem;
+  top: 0rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.adress {
+  color: #000000;
+  text-align: left;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  position: absolute;
+  left: 9.25rem;
+  top: 1.4375rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.info {
+  color: #000000;
+  text-align: right;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  position: absolute;
+  left: 6.25rem;
+  top: 52.6875rem;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.info-span {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.info-span2 {
+  color: #000000;
+  font-family: "MajorMonoDisplay-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
